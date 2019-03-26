@@ -1,2 +1,6 @@
 cuong
+<<<<<<< HEAD
 asasdasd
+=======
+sonnn
+>>>>>>> 49c2e055749f19589ffc3384a93345576202ab5a
